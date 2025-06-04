@@ -1,6 +1,6 @@
 module.exports = {
   run: [
-    // Call to download app here -- doesn't exist yet
+    // Call to download app here 
     {
       "method": "shell.run",
       "params": {
