@@ -4,7 +4,7 @@ module.exports = {
     {
       "method": "shell.run",
       "params": {
-        "message": "echo App directory assumed to be 'app'"
+        "message": "git clone https://github.com/TheAwaken1/ChatterCraft.git app",
       }
     },
     // Running dependencies first
